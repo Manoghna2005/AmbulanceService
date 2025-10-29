@@ -1,0 +1,5 @@
+{
+  "name": "AmbuFlow: Real-Time Emergency Management System",
+  "description": "A high-fidelity, frontend-only mockup of a real-time emergency management system to track hospital bed availability and ambulance dispatch. This demo uses simulated data to showcase the user interface and core functionality.",
+  "requestFramePermissions": []
+}
