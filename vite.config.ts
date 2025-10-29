@@ -3,7 +3,7 @@ import { defineConfig, loadEnv } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  mode: 'development',
+  // removed explicit mode so `vite build` uses production mode
   base: '/AmbulanceService/', // required for project pages
   server: {
     port: 3000,
